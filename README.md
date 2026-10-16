@@ -6,7 +6,11 @@ The assistant intelligently routes user requests to specialized tools, supports 
 
 <img width="1908" height="920" alt="Screenshot_17-10-2026_13017_drive google com" src="https://github.com/user-attachments/assets/8d1e58d8-03fa-40dc-8469-1791d075bab7" />
 
+
+
 <img width="1912" height="916" alt="Screenshot_17-10-2026_1318_drive google com" src="https://github.com/user-attachments/assets/34619b4a-bb93-4ec8-969a-61f5ea894fd8" />
+
+
 
 <img width="1910" height="911" alt="Screenshot_17-10-2026_13143_drive google com" src="https://github.com/user-attachments/assets/18a48ff0-8d2b-4893-9cb5-30cea12ba34b" />
 
