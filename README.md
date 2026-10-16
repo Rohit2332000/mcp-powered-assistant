@@ -4,6 +4,9 @@ An AI-powered conversational assistant built using LangGraph, MCP (Model Context
 
 The assistant intelligently routes user requests to specialized tools, supports persistent chat memory, tool execution, and multi-conversation management.
 
+<img width="1908" height="920" alt="Screenshot_17-10-2026_13017_drive google com" src="https://github.com/user-attachments/assets/8d1e58d8-03fa-40dc-8469-1791d075bab7" />
+
+
 ---
 
 ## 🚀 Features
